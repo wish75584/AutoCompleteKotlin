@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AutoCompleteKotlin</string>
+
+
+    <string name="submitted_city">Submitted city:</string>
+    <string name="string">Please type city name...</string>
+
+    <string-array name="city" >
+        <item>"Aberdeen"</item>
+        <item>Abilene</item>
+        <item>Akron</item>
+        <item>Boston</item>
+        <item>Charlotte</item>
+        <item>Dallas</item>
+        <item>Elizabeth</item>
+        <item>Fitchburg</item>
+        <item>Glendale</item>
+        <item>Harlingen</item>
+        <item>Independence</item>
+        <item>Jackson</item>
+        <item>Kailua</item>
+        <item>Lacey</item>
+        <item>Marysville</item>
+        <item>Nashville</item>
+        <item>Ogden</item>
+        <item>Palmdale</item>
+        <item>Raleigh</item>
+        <item>Salem</item>
+        <item>Tampa</item>
+        <item>Utica</item>
+        <item>Visalia</item>
+        <item>Wichita</item>
+        <item>Yakima</item>
+
+    </string-array>
+
+
+</resources>
